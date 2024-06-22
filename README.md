@@ -20,3 +20,12 @@ TL;DR Cascade Ciphering GUI Program that utilizes OTP &amp; AES encryption metho
 
 > [!NOTE]
 > Python must be installed beforehand to be able to run the code.
+
+## Proof-of-Concept
+![4](https://github.com/LOck-ethqc/Cascade-Ciphering/assets/90512716/ae8866b7-3192-4fbd-b887-8565358149a9)
+![1](https://github.com/LOck-ethqc/Cascade-Ciphering/assets/90512716/459aeb43-ce90-49cb-a14d-87afd92dcf6c) ![2](https://github.com/LOck-ethqc/Cascade-Ciphering/assets/90512716/60c275e3-083f-4901-8a16-a18591633619)
+![3](https://github.com/LOck-ethqc/Cascade-Ciphering/assets/90512716/93ce366c-30b6-4603-a386-e20e8131cb18)
+
+
+
+
